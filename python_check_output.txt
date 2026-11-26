@@ -1,0 +1,27 @@
+SKU 1 | clean weeks 12 | baseline 1005.58 | SQL 1005.58 | OK
+SKU 2 | clean weeks 12 | baseline 813.58 | SQL 813.58 | OK
+SKU 3 | clean weeks 12 | baseline 605.42 | SQL 605.42 | OK
+SKU 4 | clean weeks 12 | baseline 488.83 | SQL 488.83 | OK
+SKU 5 | clean weeks 10 | baseline 719.1 | SQL 719.1 | OK
+SKU 6 | clean weeks 12 | baseline 667.75 | SQL 667.75 | OK
+SKU 7 | clean weeks 10 | baseline 357.8 | SQL 357.8 | OK
+SKU 8 | clean weeks 12 | baseline 273.0 | SQL 273.0 | OK
+SKU 9 | clean weeks 11 | baseline 1812.18 | SQL 1812.18 | OK
+SKU 10 | clean weeks 12 | baseline 2385.42 | SQL 2385.42 | OK
+SKU 11 | clean weeks 11 | baseline 1986.18 | SQL 1986.18 | OK
+SKU 12 | clean weeks 12 | baseline 905.58 | SQL 905.58 | OK
+SKU 13 | clean weeks 10 | baseline 414.2 | SQL 414.2 | OK
+SKU 14 | clean weeks 12 | baseline 254.25 | SQL 254.25 | OK
+SKU 15 | clean weeks 11 | baseline 191.55 | SQL 191.55 | OK
+SKU 16 | clean weeks 11 | baseline 333.18 | SQL 333.18 | OK
+SKU 17 | clean weeks 11 | baseline 1048.82 | SQL 1048.82 | OK
+SKU 18 | clean weeks 9 | baseline 157.78 | SQL 157.78 | OK
+SKU 19 | clean weeks 12 | baseline 1368.67 | SQL 1368.67 | OK
+SKU 20 | clean weeks 12 | baseline 819.92 | SQL 819.92 | OK
+Festive | stock-out incidence 22.5%
+Regular | stock-out incidence 6.01%
+Dry Fruits & Gifting | uplift 2.0771 | SQL 2.0771 | OK
+Pooja & Decor | uplift 3.0651 | SQL 3.0651 | OK
+Snacks & Beverages | uplift 1.427 | SQL 1.427 | OK
+Sweets & Mithai | uplift 2.4028 | SQL 2.4028 | OK
+ALL CHECKS PASSED
